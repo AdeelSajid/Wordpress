@@ -1,0 +1,17 @@
+.elementor-173 .elementor-element.elementor-element-44344264 > .elementor-container{max-width:1250px;}.elementor-173 .elementor-element.elementor-element-44344264:not(.elementor-motion-effects-element-type-background), .elementor-173 .elementor-element.elementor-element-44344264 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FECAE0;}.elementor-173 .elementor-element.elementor-element-44344264{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:210px 0px 0px 0px;}.elementor-173 .elementor-element.elementor-element-44344264 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-173 .elementor-element.elementor-element-1b4ca060 > .elementor-container{max-width:1250px;}.elementor-173 .elementor-element.elementor-element-1b4ca060{padding:50px 0px 30px 0px;}.elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title, .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title:before, .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title:after, .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-content, .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tabs-content-wrapper{border-width:0px;}.elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title, .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title a{color:#EA4B81;}.elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title.elementor-active,
+					 .elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title.elementor-active a{color:#FFFFFF;}.elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-title{font-family:"Cubano Bold", Sans-serif;font-size:22px;text-shadow:0px 0px 10px rgba(0, 0, 0, 0.15);}.elementor-173 .elementor-element.elementor-element-9d4ff99 .elementor-tab-content{color:#FFFFFF;font-family:"Buenos Aires Regular", Sans-serif;font-size:18px;}@media(max-width:1024px){.elementor-173 .elementor-element.elementor-element-44344264{padding:200px 20px 0px 20px;}.elementor-173 .elementor-element.elementor-element-1b4ca060{padding:200px 20px 50px 20px;}}@media(max-width:767px){.elementor-173 .elementor-element.elementor-element-44344264{padding:10px 0px 10px 0px;}.elementor-173 .elementor-element.elementor-element-1b4ca060{padding:10px 0px 50px 0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Cubano Bold';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://localhost/chocolates/wp-content/uploads/2022/10/Cubano.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Buenos Aires Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/chocolates/wp-content/uploads/2022/10/BuenosAiresRegular-1.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */

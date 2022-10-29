@@ -1,0 +1,16 @@
+.elementor-6770 .elementor-element.elementor-element-a7730fa > .elementor-container{max-width:1250px;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-6770 .elementor-element.elementor-element-4d913834:after{content:"0.66";}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__meta-data span + span:before{content:"•";}.elementor-6770 .elementor-element.elementor-element-4d913834{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__card{background-color:#02010100;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__text{margin-top:20px;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__badge{right:0;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__card .elementor-post__badge{background-color:#FFFFFF;color:#EA4B81;font-size:16px;margin:15px;font-family:"Buenos Aires Regular", Sans-serif;}.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__title, .elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-post__title a{color:#EA4B81;font-family:"Cubano Bold", Sans-serif;font-size:25px;text-decoration:none;line-height:30px;}@media(max-width:767px){.elementor-6770 .elementor-element.elementor-element-4d913834 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-6770 .elementor-element.elementor-element-4d913834:after{content:"0.5";}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Buenos Aires Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/chocolates/wp-content/uploads/2022/10/BuenosAiresRegular-1.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Cubano Bold';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://localhost/chocolates/wp-content/uploads/2022/10/Cubano.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
